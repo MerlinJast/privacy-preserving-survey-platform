@@ -17,10 +17,11 @@ A privacy-preserving employee satisfaction survey platform built with Zama's Ful
 - [Usage Guide](#usage-guide)
 - [Testing](#testing)
 - [Live Deployment](#live-deployment)
-- [Video Demonstration](#video-demonstration)
+- [Video Demonstration privacy-preserving survey platform.mp4](https://streamable.com/qnkv6g)
 - [Security Considerations](#security-considerations)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
+- [Live Demo](https://privacy-preserving-survey-platform.vercel.app/)
 
 ---
 
@@ -280,7 +281,7 @@ modifier surveyActive(uint256 _surveyId)
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/employee-privacy-fhe.git
+git clone https://github.com/MerlinJast/privacy-preserving-survey-platform.git
 cd employee-privacy-fhe
 ```
 
@@ -415,9 +416,9 @@ The test suite covers:
 
 ### Application URLs
 
-**🌐 Live Demo**: [https://employee-privacy-fhe.vercel.app/](https://employee-privacy-fhe.vercel.app/)
+**🌐 Live Demo**: [https://privacy-preserving-survey-platform.vercel.app/](https://privacy-preserving-survey-platform.vercel.app/)
 
-**📦 GitHub Repository**: [https://github.com/MerlinJast/EmployeePrivacyFHE](https://github.com/MerlinJast/EmployeePrivacyFHE)
+**📦 GitHub Repository**: [https://github.com/MerlinJast/privacy-preserving-survey-platform](https://github.com/MerlinJast/privacy-preserving-survey-platform)
 
 ### Smart Contract Details
 
@@ -433,11 +434,11 @@ The test suite covers:
 
 ## Video Demonstration
 
-### 📹 Required Competition Video
+ privacy-preserving survey platform.mp4 
 
 **Duration**: 1 minute
 
-**Video Link**: [Watch Demo Video](demo.mp4)
+**Video Link**: [Watch Demo Video privacy-preserving survey platform.mp4](https://streamable.com/qnkv6g)
 
 ### Video Contents
 
@@ -671,8 +672,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Questions?
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/MerlinJast/EmployeePrivacyFHE/issues)
-- **Discussions**: [Join community discussions](https://github.com/MerlinJast/EmployeePrivacyFHE/discussions)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/MerlinJast/privacy-preserving-survey-platform/issues)
+- **Discussions**: [Join community discussions](https://github.com/MerlinJast/privacy-preserving-survey-platform/discussions)
 
 ### Stay Updated
 
