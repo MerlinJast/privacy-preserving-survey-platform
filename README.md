@@ -2,6 +2,10 @@
 
 A comprehensive Hardhat-based example demonstrating privacy-preserving smart contracts using Fully Homomorphic Encryption (FHE) on Ethereum. This project showcases encrypted voting, access control, and secure data aggregation patterns using the Zama FHEVM protocol.
 
+[Demo](https://youtu.be/kDV9aWp2A2E)
+
+[Live Demo](https://privacy-preserving-survey-platform.vercel.app/)
+
 ## Overview
 
 This example implements an **Employee Privacy Survey System** that demonstrates critical FHEVM concepts:
